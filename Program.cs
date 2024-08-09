@@ -20,6 +20,7 @@ namespace Deal_or_No_Deal_Game
 
         private static List<int> cases;
 
+        //this line is to test if git bash is actually tracking changes in the file contents
         public static void Main()
         {
             //builds cases list, used to reference which case has what value
