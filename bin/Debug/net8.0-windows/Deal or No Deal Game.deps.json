@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Deal or No Deal Game/1.0.0": {
+        "runtime": {
+          "Deal or No Deal Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deal or No Deal Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
